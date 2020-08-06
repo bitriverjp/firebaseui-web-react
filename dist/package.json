@@ -1,5 +1,5 @@
 {
-  "name": "react-firebaseui-vi",
+  "name": "react-firebaseui-ja",
   "version": "4.0.0",
   "description": "React wrapper for firebaseui: Javascript library for customizable UI on top of Firebase SDK",
   "files": [
@@ -33,7 +33,7 @@
     "firebase": ">=6.3.4 <8"
   },
   "dependencies": {
-    "firebaseui": "git://github.com/slintristeza/firebaseui-web#vi"
+    "firebaseui": "git://github.com/slintristeza/firebaseui-web#ja"
   },
   "devDependencies": {
     "@types/react": "^16.3.2",
