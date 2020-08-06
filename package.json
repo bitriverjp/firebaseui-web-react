@@ -1,5 +1,5 @@
 {
-  "name": "react-firebaseui-ja",
+  "name": "react-firebaseui-zh-cn",
   "version": "4.0.0",
   "description": "React wrapper for firebaseui: Javascript library for customizable UI on top of Firebase SDK",
   "files": [
@@ -33,7 +33,7 @@
     "firebase": ">=6.3.4 <8"
   },
   "dependencies": {
-    "firebaseui": "git://github.com/slintristeza/firebaseui-web#ja"
+    "firebaseui": "git://github.com/slintristeza/firebaseui-web#zh-cn"
   },
   "devDependencies": {
     "@types/react": "^16.3.2",
