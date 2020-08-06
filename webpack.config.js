@@ -23,7 +23,7 @@ const config = {
   entry: './src/FirebaseAuth.jsx',
   output: {
     filename: 'StyledFirebaseAuth.js',
-    path: path.resolve(__dirname, './dist'),
+    path: path.resolve(__dirname, './'),
     library: 'StyledFirebaseAuth',
     libraryTarget: 'commonjs2',
   },
