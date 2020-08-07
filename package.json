@@ -33,7 +33,7 @@
     "firebase": ">=6.3.4 <8"
   },
   "dependencies": {
-    "firebaseui": "git://github.com/slintristeza/firebaseui-web#ja"
+    "firebaseui": "git://github.com/bitriverjp/firebaseui-web#ja"
   },
   "devDependencies": {
     "@types/react": "^16.3.2",
